@@ -9,9 +9,17 @@ __Instructor:__ Ioannis Kourouklides
 
 __Announcements:__ (on Moodle)
 
+__Lecture Notes:__
+
 __Lecture Slides:__
 
-__Lecture Notes:__
+- [Lecture 1 - 11 Sep 2018](https://goo.gl/v8hJda)
+- Lecture 2 - 18 Sep 2018 (slides not available)
+- [Lecture 3 - 25 Sep 2018](https://goo.gl/NcvGQS)
+- Lecture 4 -  2018 (slides not available)
+- Lecture 5 -  2018 (slides not available)
+- [Lecture 6 - 16 Oct 2018](https://goo.gl/RJwG19)
+- [Lecture 7 - 23 Oct 2018](https://goo.gl/5ZTnGH)
 
 
 # Part B: Natural Language Processing
