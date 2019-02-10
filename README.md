@@ -3,7 +3,7 @@
 This repository is the one used for the module __CEI-523: Data Science__ during Fall Semester of 2018 at the Master's degree [MSc in Data Science and Engineering](https://www.cut.ac.cy/faculties/fet/eecei/module-description/modules-msc-data-science-and-engineering/?languageId=1) at the [Cyprus Unioversity of Technology](https://www.cut.ac.cy/).
 
 
-# Part A: Deep Learning and Computer Vision
+## Part A: Deep Learning and Computer Vision
 
 __Instructor:__ Ioannis Kourouklides
 
@@ -24,6 +24,6 @@ __Lecture Slides:__
 - [Lecture 7 - 23 Oct 2018](https://goo.gl/5ZTnGH)
 
 
-# Part B: Natural Language Processing
+## Part B: Natural Language Processing
 
 Taught by a different instructor. Please check Mooodle.
