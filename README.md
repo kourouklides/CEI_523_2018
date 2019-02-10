@@ -11,6 +11,8 @@ __Announcements:__ (on Moodle)
 
 __Lecture Notes:__
 
+- [Lecture notes on Data Science](https://goo.gl/VSTGUQ) (a work in progress)
+
 __Lecture Slides:__
 
 - [Lecture 1 - 11 Sep 2018](https://goo.gl/v8hJda)
