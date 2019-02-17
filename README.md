@@ -16,10 +16,10 @@ __Lecture Notes:__
 __Lecture Slides:__
 
 - [Lecture 1 - 11 Sep 2018](https://goo.gl/v8hJda)
-- Lecture 2 - 18 Sep 2018 (slides not available)
+- Lecture 2 - 18 Sep 2018 (lab)
 - [Lecture 3 - 25 Sep 2018](https://goo.gl/NcvGQS)
-- Lecture 4 -  2 Oct 2018 (slides not available)
-- Lecture 5 -  9 Oct 2018 (slides not available)
+- Lecture 4 -  2 Oct 2018 (lab)
+- Lecture 5 -  9 Oct 2018 (lab)
 - [Lecture 6 - 16 Oct 2018](https://goo.gl/RJwG19)
 - [Lecture 7 - 23 Oct 2018](https://goo.gl/5ZTnGH)
 
