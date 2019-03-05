@@ -26,4 +26,4 @@ __Lecture Slides:__
 
 ## Part B: Natural Language Processing
 
-Taught by a different instructor. Please check Mooodle.
+Taught by a different instructor. Please check Moodle.
