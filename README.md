@@ -25,6 +25,6 @@ __Lecture Slides:__
 - [Lecture 7 - 23 Oct 2018](https://goo.gl/5ZTnGH)
 
 
-## Part B: Natural Language Processing
+## Part B: Deep Learning and Natural Language Processing
 
 Taught by a different instructor. Please check Moodle.
